@@ -1,0 +1,23 @@
+#PRODUCT_BRAND ?= cyosp
+
+
+#PRODUCT_PROPERTY_OVERRIDES += \
+    ro.build.selinux=1
+
+# Copy over the changelog to the device
+PRODUCT_COPY_FILES += \
+    vendor/cyosp/CHANGELOG-CY.txt:system/etc/CHANGELOG-CY.txt
+
+PRODUCT_VERSION_MAJOR = 0
+PRODUCT_VERSION_MINOR = 1
+PRODUCT_VERSION_MAINTENANCE = 2
+
+CY_VERSION := $(PRODUCT_VERSION_MAJOR).$(PRODUCT_VERSION_MINOR).$(PRODUCT_VERSION_MAINTENANCE)-$(shell date +%y%m%d%H)
+CY_DISPLAY_VERSION := $(CY_VERSION)
+
+PRODUCT_PROPERTY_OVERRIDES += \
+  ro.cyosp.version=$(CY_DISPLAY_VERSION)
+
+# libxml2
+PRODUCT_PACKAGES += \
+    libxml2

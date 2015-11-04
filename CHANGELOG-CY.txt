@@ -1,0 +1,12 @@
+cyosp changelog
+
+0.1.2 - 2015.10.26
+	This file is copied to system/etc/
+
+0.1.1 - 2015.10.23
+	Settings app show cyosp version
+	User build instead of userdebug, still deodexed
+
+0.1.0 - 2015.10.20
+	Initial build: With Benzo's device tree, and Benzo's and jdillard's modifications fo functionality
+
