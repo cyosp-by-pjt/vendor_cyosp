@@ -1,5 +1,9 @@
 cyosp changelog
 
+0.1.3 - 2015.11.02.
+	Messaging has new launcher icon and cyosp colors
+	Battery saving location not working and causing soft reboots fixed
+
 0.1.2 - 2015.10.26
 	This file is copied to system/etc/
 
@@ -9,4 +13,3 @@ cyosp changelog
 
 0.1.0 - 2015.10.20
 	Initial build: With Benzo's device tree, and Benzo's and jdillard's modifications fo functionality
-
