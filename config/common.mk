@@ -2,7 +2,8 @@
 
 
 PRODUCT_PROPERTY_OVERRIDES += \
-    ro.build.selinux=1
+    ro.build.selinux=1 \
+	ro.adb.secure=1
 
 # Copy over the changelog to the device
 PRODUCT_COPY_FILES += \
