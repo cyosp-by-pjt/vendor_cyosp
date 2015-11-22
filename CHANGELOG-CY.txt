@@ -1,11 +1,19 @@
 cyosp changelog
 
-0.1.4 - 2015.11.11.
+0.1.6 - 2015.11.22
+	New icons for sysbar, cyosp style
+	Statusbar colors cyosp style, settings icon too
+	Tuner always on, remove tuner icon from settings in statusbar
+
+0.1.5 - 2015.11.17
+	Show alarms tapping any time or date field
+
+0.1.4 - 2015.11.11
 	Dismiss all button for Recent apps
 	Verity killed
 	USB charging added
 
-0.1.3 - 2015.11.02.
+0.1.3 - 2015.11.02
 	Messaging has new launcher icon and cyosp colors
 	Battery saving location not working and causing soft reboots fixed
 
