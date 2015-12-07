@@ -1,5 +1,9 @@
 cyosp changelog
 
+0.1.8 - 2015.12.01
+    New wide menu button on status bar
+	Menu button has permanent place, as 4th button
+
 0.1.7 - 2015.11.29
 	All statusbar and qs icons have cyosp color
 	Menu button is always on Navigation bar
