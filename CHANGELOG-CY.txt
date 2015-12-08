@@ -1,5 +1,8 @@
 cyosp changelog
 
+0.1.9 - 2015.12.08
+    Upgraded to Android 6.0.1
+
 0.1.8 - 2015.12.01
     New wide menu button on status bar
 	Menu button has permanent place, as 4th button
