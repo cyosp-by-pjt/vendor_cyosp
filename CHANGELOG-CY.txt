@@ -1,5 +1,11 @@
 cyosp changelog
 
+0.1.10 - 2015.12.12
+    Hide menu button when recents are hidden.
+    Make menu button more prominent
+    Remove landscape buttons, not used anymore
+    Enable cast to Smart TVs
+
 0.1.9 - 2015.12.08
     Upgraded to Android 6.0.1
 

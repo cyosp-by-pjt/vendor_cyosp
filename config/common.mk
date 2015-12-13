@@ -3,7 +3,8 @@
 
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.build.selinux=1 \
-	ro.adb.secure=1
+	ro.adb.secure=1 \
+	persist.debug.wfd.enable=1
 
 # Copy over the changelog to the device
 PRODUCT_COPY_FILES += \
@@ -16,7 +17,7 @@ PRODUCT_VERSION_ANDROID = MB
 
 PRODUCT_VERSION_MAJOR = 0
 PRODUCT_VERSION_MINOR = 1
-PRODUCT_VERSION_MAINTENANCE = 9
+PRODUCT_VERSION_MAINTENANCE = 10
 
 CY_VERSION := $(PRODUCT_VERSION_MAJOR).$(PRODUCT_VERSION_MINOR).$(PRODUCT_VERSION_MAINTENANCE)-$(PRODUCT_VERSION_ANDROID)$(shell date +%y%j)$(shell date +%H | awk '{printf "%c", $$1 + 65}')
 
