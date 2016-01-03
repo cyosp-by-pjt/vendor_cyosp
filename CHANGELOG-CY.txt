@@ -1,5 +1,8 @@
 cyosp changelog
 
+0.2.1 - 2016.01.03
+    Bring back old ElectricBeam screen off anination, part #1
+
 0.1.10 - 2015.12.12
     Hide menu button when recents are hidden.
     Make menu button more prominent
