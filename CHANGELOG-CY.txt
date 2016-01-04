@@ -1,7 +1,12 @@
 cyosp changelog
 
+0.2.2 - 2016.01.04
+    Bring back old ElectricBeam screen off anination, part #2
+    - it works now, and it's always on
+
 0.2.1 - 2016.01.03
     Bring back old ElectricBeam screen off anination, part #1
+    - off by default, old code not woriking yet
 
 0.1.10 - 2015.12.12
     Hide menu button when recents are hidden.
