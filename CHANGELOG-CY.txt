@@ -1,24 +1,31 @@
 cyosp changelog
 
+0.2.3 - 2016.01.24
+	Use CMFileManager as built-in filemanager
+	- Make isSuperuser check more general
+	- Add bzip2 executable to xbin
+	- Add dependency pigz to mainfest for gunzip
+	- Add dependency libtruezip to mainfest    	
+
 0.2.2 - 2016.01.04
-    Bring back old ElectricBeam screen off anination, part #2
-    - it works now, and it's always on
+	Bring back old ElectricBeam screen off anination, part #2
+	- it works now, and it's always on
 
 0.2.1 - 2016.01.03
-    Bring back old ElectricBeam screen off anination, part #1
-    - off by default, old code not woriking yet
+	Bring back old ElectricBeam screen off anination, part #1
+	- off by default, old code not woriking yet
 
 0.1.10 - 2015.12.12
-    Hide menu button when recents are hidden.
-    Make menu button more prominent
-    Remove landscape buttons, not used anymore
-    Enable cast to Smart TVs
+	Hide menu button when recents are hidden.
+	Make menu button more prominent
+	Remove landscape buttons, not used anymore
+	Enable cast to Smart TVs
 
 0.1.9 - 2015.12.08
-    Upgraded to Android 6.0.1
+	Upgraded to Android 6.0.1
 
 0.1.8 - 2015.12.01
-    New wide menu button on status bar
+	New wide menu button on status bar
 	Menu button has permanent place, as 4th button
 
 0.1.7 - 2015.11.29
