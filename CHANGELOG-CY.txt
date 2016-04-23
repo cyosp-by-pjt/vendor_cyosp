@@ -1,5 +1,11 @@
 cyosp changelog
 
+0.2.6 - 2016.04.23
+	- Update to MOB30D
+
+0.2.5 - 2016.03.09
+	- Update to MMB29V
+
 0.2.4 - 2016.02.13
 	- Update to MMB29Q
 
