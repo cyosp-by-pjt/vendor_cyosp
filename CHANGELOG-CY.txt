@@ -1,4 +1,5 @@
-cyosp changelog
+0.2.7 - 2016.04.24
+	- Display CHANGELOG-CY.txt in Settings app when tapping cyosp version
 
 0.2.6 - 2016.04.23
 	- Update to MOB30D
