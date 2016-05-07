@@ -1,3 +1,6 @@
+0.2.8 - 2016.05.07
+	- Update to MOB30I
+
 0.2.7 - 2016.04.24
 	- Display CHANGELOG-CY.txt in Settings app when tapping cyosp version
 
