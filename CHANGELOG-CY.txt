@@ -1,3 +1,9 @@
+0.2.9 - 2016.05.08
+	- New settings category: Additional settings
+	- Move the UI Tuner to new category
+	- Add cyosp settings
+	- Add Screen off animation settings panel (not working yet)
+
 0.2.8 - 2016.05.07
 	- Update to MOB30I
 
@@ -21,11 +27,11 @@
 	- Add dependency libtruezip to mainfest
 
 0.2.2 - 2016.01.04
-	Bring back old ElectricBeam screen off anination, part #2
+	Bring back old ElectronBeam screen off anination, part #2
 	- it works now, and it's always on
 
 0.2.1 - 2016.01.03
-	Bring back old ElectricBeam screen off anination, part #1
+	Bring back old ElectronBeam screen off anination, part #1
 	- off by default, old code not woriking yet
 
 0.1.10 - 2015.12.12
