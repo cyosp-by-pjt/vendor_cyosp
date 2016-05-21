@@ -1,3 +1,6 @@
+0.2.10- 2016.05.21
+	- Screen off animation settings working
+
 0.2.9 - 2016.05.08
 	- New settings category: Additional settings
 	- Move the UI Tuner to new category
