@@ -1,3 +1,6 @@
+0.2.15- 2016.09.13
+	- Add Doubletap to wake
+
 0.2.14- 2016.09.08
 	- Update to MOB31E
 
