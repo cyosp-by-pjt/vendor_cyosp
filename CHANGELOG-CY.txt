@@ -1,3 +1,6 @@
+0.2.16- 2016.09.13
+	- More options in power menu, and confirm shut down
+
 0.2.15- 2016.09.13
 	- Add Doubletap to wake
 
