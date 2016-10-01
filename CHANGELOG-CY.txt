@@ -1,3 +1,6 @@
+0.2.17- 2016.09.18
+	- Reboot option to power menu, with reboot to recovery long press
+
 0.2.16- 2016.09.13
 	- More options in power menu, and confirm shut down
 
