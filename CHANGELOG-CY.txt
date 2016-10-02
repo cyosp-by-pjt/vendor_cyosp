@@ -1,3 +1,6 @@
+0.2.18- 2016.10.02
+	- Tristate Location tile
+
 0.2.17- 2016.09.18
 	- Reboot option to power menu, with reboot to recovery long press
 
